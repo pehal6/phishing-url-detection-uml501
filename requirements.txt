@@ -1,0 +1,27 @@
+# Core (preprocessing, models, dashboard backend)
+numpy
+pandas
+scikit-learn
+joblib
+
+# Gradient boosting models (notebook 04)
+xgboost
+lightgbm
+catboost
+
+# Explainability (notebook 05)
+shap
+lime
+matplotlib
+
+# Deep learning (notebooks 06-08)
+tensorflow
+
+# Dashboard
+streamlit
+
+# Data collection / feature extraction (notebooks 01-03, src/data)
+requests
+dnspython
+python-whois
+playwright

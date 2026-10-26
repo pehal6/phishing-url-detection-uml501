@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it."
+title: "Explainable Phishing URL Detection (UML501 course project)"
+type: software
+authors:
+  - given-names: "Pehal"
+  - given-names: "Yashjot"
+    family-names: "Kaur"
+version: 1.0.0
+date-released: 2026-10-26
+license: MIT
+repository-code: "https://github.com/pehal6/phishing-url-detection-uml501"
+abstract: "Course project for UML501 (Machine Learning). Extends a published explainable phishing URL detection framework with a real-time feature extractor, a leak-free preprocessing pipeline, a training and inference API, and two dashboards."
+keywords:
+  - phishing detection
+  - machine learning
+  - explainable artificial intelligence
+  - deep learning
+  - URL classification
