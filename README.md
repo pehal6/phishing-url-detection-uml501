@@ -47,8 +47,6 @@ Full tables, including training and prediction times, are in [`results/`](result
 
 ## 🧱 Base project and what we added
 
-Built on the base framework by Ozcelik, ElSilk and Osmanoglu (Ankara University), *Explainable Machine Learning Framework for Phishing URL Detection with a Realistic Large-Scale Dataset*. The research notebooks, the 579,920-URL dataset and the published experiments come from that work. Our additions (details in [`docs/BEFORE_AFTER_CHANGES.md`](docs/BEFORE_AFTER_CHANGES.md)):
-
 | Addition | Where |
 |---|---|
 | Real-time extractor for all 74 features of any raw URL | `src/features/extractor.py` |
@@ -146,6 +144,3 @@ app.py, app_web.py   dashboards
 | Pehal | 1024170103 |
 | Yashjot Kaur | 1024170452 |
 
-## 🙏 Acknowledgements and license
-
-Base framework and dataset: Ozcelik, ElSilk and Osmanoglu (Ankara University), also available on Kaggle as [phishing-url-features-dataset](https://www.kaggle.com/datasets/elifzelik/phishing-url-features-dataset). Citation details are in [`CITATION.cff`](CITATION.cff). Released under the MIT License (see [`LICENSE`](LICENSE)).
